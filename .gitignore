@@ -1,0 +1,9 @@
+node_modules/
+.idea/
+dist/
+dist*.*
+.jest/
+graphql.main.schema.json
+graphql.user.schema.json
+.DS_Store
+errors-schema/schemas
